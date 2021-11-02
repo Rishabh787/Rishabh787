@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **FRONTEND**
+- 🌱 I’m currently learning **C, C++, PYTHON **
 
 - 🤝 I’m looking for help with **DEVELOPMENT**
 
