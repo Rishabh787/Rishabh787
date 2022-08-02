@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh787" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh787" alt="rishabh787" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabh60841830" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh60841830?logo=twitter&style=for-the-badge" alt="rishabh60841830" /></a> </p>
 
