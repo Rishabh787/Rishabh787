@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
 
