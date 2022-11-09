@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@alpharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alpharis" height="30" width="40" /></a>
-<a href="https://twitter.com/rishabh60841830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh60841830" height="30" width="40" /></a>
+<a href="https://twitter.com/twitforsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitforsingh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rishabh-singh-54505b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh singh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100048725383387" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishabh singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rishabh_singh_bholu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh singh bholu" height="30" width="40" /></a>
