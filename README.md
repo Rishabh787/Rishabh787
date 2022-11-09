@@ -5,7 +5,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="rishabh60841830" /></a> </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="rishabh-s-54505b221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rishabh-s-54505b221?trk=profile-badge">Rishabh S.</a></div>
+              
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Java, Java Script, PYTHON**
