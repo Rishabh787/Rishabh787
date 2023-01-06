@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **FRONTEND**
 
-- 📫 How to reach me **ris581978@gmail.com**
+- 📫 mail_to **ris581978@gmail.com**
 
 - ⚡ Fun fact **"New car smell" is the scent of dozens of chemicals.**
 
