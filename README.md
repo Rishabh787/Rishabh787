@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Java Script, PYTHON**
 
-- 🤝 I’m waiting for new turn with **somebody**
+- 🤝 I’m waiting for new turn with 😍**somebody**
 
 - 💬 Ask me about **FRONTEND**
 
