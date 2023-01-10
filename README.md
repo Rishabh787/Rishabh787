@@ -32,9 +32,8 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -49,3 +48,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&locale=en" alt="Rishabh787" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&" alt="Rishabh787" /></p>
+<!-- 
+<p><img src="https://user-images.githubusercontent.com/85503050/211609013-1ed541f9-88e4-4874-90b4-8af24f513ea6.gif" alt="check" width="150" height="140"  /></p>
+<p><img src="https://user-images.githubusercontent.com/85503050/211608046-7d9a6816-75c7-4c12-8bcb-fde701df1a51.png" alt="check"/></p>
+-->
