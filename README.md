@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/85503050/216337233-115998a6-ebfb-47b4-85a4-04cbe607568f.jpg" />
 <h1 align="center">Hii... 👻, I'm SINGH</h1>
 <h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
