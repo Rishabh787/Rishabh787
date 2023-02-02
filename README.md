@@ -1,11 +1,11 @@
 <h1 align="center">Hii... 👻, I'm SINGH</h1>
-<h3 align="center">A passionate Developer from INDIA 🧡 🤍 💚</h3>
+<h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
 
 <p align="left"> <a href="https://insanitylearner.in" target="_blank"><img
 src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
 
 <hr>
 
