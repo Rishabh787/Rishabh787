@@ -12,6 +12,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 <hr>
 
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Java, Java Script, PYTHON**
@@ -33,6 +34,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh singh bholu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/insanity learner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanity learner" height="30" width="40" /></a>
 <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5ZnNXjAvbG" height="30" width="40" /></a>
+<a href="https://insanity;earner.in" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85503050/216780241-1f562d33-3d0e-457f-a47e-f8eb2262d010.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
