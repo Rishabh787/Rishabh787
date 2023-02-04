@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm SINGH</h1>
-<h3 align="center">A passionate Developer from INDIA</h3>
+<img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" />
+<!-- <img src="https://user-images.githubusercontent.com/85503050/216778835-4852143f-0426-41c3-ba6d-1fe8354ff84f.jpg" /> -->
+<!-- <img src="https://user-images.githubusercontent.com/85503050/216337233-115998a6-ebfb-47b4-85a4-04cbe607568f.jpg" /> -->
+<h1 align="center">Hii... 👻, I'm SINGH</h1>
+<h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
 
 <p align="left"> <a href="https://insanitylearner.in" target="_blank"><img
 src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
+
 <hr>
+
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -18,7 +23,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 - 📫 mail_to **ris581978@gmail.com**
 
-- ⚡ Fun fact **"New car smell" is the scent of dozens of chemicals.**
+- ⚡ Fun fact©️ **after !print("hello world")** I'm a programmer 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +34,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh singh bholu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/insanity learner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanity learner" height="30" width="40" /></a>
 <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5ZnNXjAvbG" height="30" width="40" /></a>
+<a href="https://insanitylearner.in" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85503050/216780241-1f562d33-3d0e-457f-a47e-f8eb2262d010.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
