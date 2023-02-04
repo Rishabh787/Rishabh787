@@ -23,7 +23,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 - 📫 mail_to **ris581978@gmail.com**
 
-- ⚡ Fun fact **"New car smell" is the scent of dozens of chemicals.**
+- ⚡ Fun fact©️ **after !print("hello world")** I'm a programmer 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
