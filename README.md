@@ -1,4 +1,4 @@
-<!-- <img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" /> -->
+<img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" />
 <!-- <img src="https://user-images.githubusercontent.com/85503050/216778835-4852143f-0426-41c3-ba6d-1fe8354ff84f.jpg" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/85503050/216337233-115998a6-ebfb-47b4-85a4-04cbe607568f.jpg" /> -->
 <h1 align="center">Hii... 👻, I'm SINGH</h1>
