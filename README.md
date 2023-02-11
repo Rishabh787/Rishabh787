@@ -39,7 +39,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<p align="left"> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
