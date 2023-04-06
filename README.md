@@ -21,14 +21,15 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
   <a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src="" style=" display: inline-block;"></a>
   </p>
 
-- 🌱 I’m currently learning **Java, Java Script, PYTHON**
+ 🌱 I’m currently learning **Java, Java Script, PYTHON**
 
-- 🤝 I’m waiting for new turn with 😍**somebody**
+ 🤝 I’m waiting for new turn with 😍**somebody**
 
-- 💬 Ask me about **FRONTEND**
+ 💬 Ask me about **FRONTEND**
 <p>
 ⚡ Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
   <a> <img src = "https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style = "width: 40px; display: inline-block;"> </a>
+</p>
 
   <hr>
 <!-- Connect with me from here -->
