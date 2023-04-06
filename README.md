@@ -26,7 +26,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
     🤝 I’m waiting for new turn with 😍**somebody**
 
     💬 Ask me about **FRONTEND**
-    </p>
+  </p>
   <p>
     ⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
       <a> <img src = "https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style = "width: 40px; display: inline-block;"> </a>
