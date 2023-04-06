@@ -21,7 +21,6 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
   <a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src="" style=" display: inline-block;"></a>
   </p>
 
-  is this workin'😍
 - 🌱 I’m currently learning **Java, Java Script, PYTHON**
 
 - 🤝 I’m waiting for new turn with 😍**somebody**
