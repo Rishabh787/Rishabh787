@@ -33,7 +33,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 
 <hr>
-
+<div>
 <!-- Connect with me from here -->
     <h1 align="center">
         <a><img src="https://user-images.githubusercontent.com/85503050/230406289-bd28bc1b-6d5b-4a3b-ba92-b4106545069c.gif" style=" display: inline-block;  width: 300px;" margin = "20px;"> </a>
