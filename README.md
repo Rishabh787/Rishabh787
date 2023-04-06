@@ -1,4 +1,4 @@
-<!-- <img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" /> -->
+<img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" />
 
 <hr/>
 <h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm SINGH</h1>
