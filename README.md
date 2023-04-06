@@ -2,7 +2,7 @@
 <hr>
 <!-- <img src="https://user-images.githubusercontent.com/85503050/216778835-4852143f-0426-41c3-ba6d-1fe8354ff84f.jpg" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/85503050/216337233-115998a6-ebfb-47b4-85a4-04cbe607568f.jpg" /> -->
-<h1 align="center">Hii... 👻, I'm SINGH</h1>
+<h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm SINGH</h1>
 <h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /> </p>
 
@@ -15,27 +15,26 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 <a href="https://insanitylearner.in" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/85503050/216780241-1f562d33-3d0e-457f-a47e-f8eb2262d010.png" height="200" width="200" /></a>
 
-
-<p>
-  🔭 I’m currently working on <b>Web Development</b>
-  <a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src="" style=" display: inline-block;"></a>
+<div>
+  <p>
+    🔭 I’m currently working on <b>Web Development</b>
+      <a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src="" style=" display: inline-block;"></a>
   </p>
+    🌱 I’m currently learning **Java, Java Script, PYTHON**
 
- 🌱 I’m currently learning **Java, Java Script, PYTHON**
+    🤝 I’m waiting for new turn with 😍**somebody**
 
- 🤝 I’m waiting for new turn with 😍**somebody**
+    💬 Ask me about **FRONTEND**
+  <p>
+    ⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
+      <a> <img src = "https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style = "width: 40px; display: inline-block;"> </a>
+  </p>
+</div>
 
- 💬 Ask me about **FRONTEND**
-<p>
-⚡ Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
-  <a> <img src = "https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style = "width: 40px; display: inline-block;"> </a>
-</p>
 
-  <hr>
+<hr>
 
 <!-- Connect with me from here -->
-  
-<div>
     <h1 align="center">
         <a><img src="https://user-images.githubusercontent.com/85503050/230406289-bd28bc1b-6d5b-4a3b-ba92-b4106545069c.gif" style=" display: inline-block;  width: 300px;" margin = "20px;"> </a>
     </h1>
@@ -52,22 +51,24 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 
 <!-- Language and tools from here -->
-<h1 align="center">Languages and Tools:</h1>
-<p align="center"> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png" alt="vscode" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!-- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> -->
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png" alt="canva" width="60" height="40"/> </a> </p>
 
+<div>
+    <h1 align="center">Languages and Tools:</h1>
+      <p align="center"> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png" alt="vscode" width="40" height="40"/> </a> 
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+        <!-- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  -->
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+        <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+        <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> -->
+        <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png" alt="canva" width="60" height="40"/> </a>
+      </p>
+</div>
 
 <!-- To here Tools -->
-<!-- --------------------------------------------------------------------------------------------------------------- -->
 
 <!-- These three card from here -->
 
@@ -79,8 +80,5 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 
 
 <!-- To here cards -->
-
-
-
 
 <!-- <p><img src="https://user-images.githubusercontent.com/85503050/211609013-1ed541f9-88e4-4874-90b4-8af24f513ea6.gif" alt="check" width="150" height="140"  /></p> -->
