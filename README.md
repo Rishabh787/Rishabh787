@@ -17,9 +17,9 @@
         🔭 I’m currently working on <b>Web Development</b><a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src=""style="display: inline-block" /></a>
    </p>
 
-   <p>🌱 I’m currently learning **Java, Java Script, PYTHON**</p>
-   <p>🤝 I’m waiting for new turn with 😍**somebody**</p>
-   <p>💬 Ask me about **FRONTEND**</p>
+   <p>🌱 I’m currently learning <b>Java, JavaScript, Node</b></p>
+   <p>🤝 I’m waiting for new turn with 😍somebody</p>
+   <p>💬 Ask me about <b>FRONTEND</b></p>
    <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
    <a><img src="https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style="width: 40px; display: inline-block; margin-top: -20px;" /></a>
    </p>
@@ -49,8 +49,8 @@
     <!-- To here Connect with me -->
     <!-- Language and tools from here -->
 
-<div style="margin: 40px;" align="center">
-       <h1 align="center">Languages and Tools:</h1>
+<div align="center">
+       <h1 style="font-size: 20px;">Languages and Tools:</h1>
         <p>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" /></a>
@@ -69,21 +69,23 @@
    </div>
 
    <!-- To here Tools -->
+   <hr>
 
    <!-- These three card from here -->
 
    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh787&show_icons=true&locale=en&layout=compact"
-            alt="rishabh787" width="390px" ; />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh787&theme=transparent&hide_border=true"
+            alt="Rishabh787" width="390px"; />
    </p>
-
+   
    <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&locale=en"
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true"
             alt="Rishabh787" width="430px" ; />
    </p>
 
    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&" alt="Rishabh787" />
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" alt="Rishabh787" />
+   
    </p>
 
    <!-- To here cards -->
