@@ -46,7 +46,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
         <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh singh bholu" height="30" width="40" /></a>
         <a href="https://www.youtube.com/c/insanity learner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanity learner" height="30" width="40" /></a>
         <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5ZnNXjAvbG" height="30" width="40" /></a>
-  </p>
+    </p>
 </div>
 <!-- To here Connect with me -->
 
