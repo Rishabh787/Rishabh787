@@ -82,7 +82,8 @@
    </p>
 
    <p>
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" alt="Rishabh787" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
+               alt="Rishabh787" width="430px"; />
    
    </p>
 
