@@ -51,7 +51,11 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
     <!-- Language and tools from here -->
 
 <div align="center">
-       <h1 style="font-size: 20px;">Languages and Tools:</h1>
+       <h1><a> <img src ="https://user-images.githubusercontent.com/85503050/230712130-e498f1f2-bcd3-49cb-8c1a-939a3cd36b6f.png" style="display: inline-block; width: 250px; margin-top: 30px;" /></a>
+       <a> <img src="https://user-images.githubusercontent.com/85503050/230712838-b64158ef-a504-428e-a362-249f848ca0b3.gif" style="width: 70px; margin-bottom: -33px
+"/></a>
+       <a> <img src="https://user-images.githubusercontent.com/85503050/230713855-85b0822f-61ab-4ef6-97c6-77a31ff8a927.png" width = "140px"
+"/></a></h1>
         <p>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" /></a>
