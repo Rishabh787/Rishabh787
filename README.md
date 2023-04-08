@@ -60,6 +60,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230463857-53aad46f-535f-455f-9961-7903d799cc1d.png"alt="React" width="50" height="45" /></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230714510-85cd084b-b5a4-4041-822b-cc64a37eb0f8.svg"alt="Bootstrap" width="55" height="55" /></a>           
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230469410-b3b55c1a-506f-4d91-8a63-aa02252b983f.png"alt="Nodejs" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230464317-1a1522c3-5c51-49df-8dcd-1ce4542a8c0b.png"alt="Javascript" width="50" height="40" /></a>
          <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="50" height="50" /></a>
