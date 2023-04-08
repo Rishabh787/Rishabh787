@@ -15,7 +15,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
 <a href="https://insanitylearner.in" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/85503050/216780241-1f562d33-3d0e-457f-a47e-f8eb2262d010.png" height="200" width="200" /></a>
 
 
-<a> <img align="right" src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 300px; display: inline-block;"/></a>
+<a> <img align="right" src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 250px; display: inline-block;"/></a>
 
 
    <p>
