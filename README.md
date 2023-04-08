@@ -54,12 +54,13 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
        <h1><a> <img src ="https://user-images.githubusercontent.com/85503050/230712130-e498f1f2-bcd3-49cb-8c1a-939a3cd36b6f.png" style="display: inline-block; width: 210px; margin-top: 30px;" /></a>
        <a> <img src="https://user-images.githubusercontent.com/85503050/230712838-b64158ef-a504-428e-a362-249f848ca0b3.gif" style="width: 40px; margin-bottom: -10px
 "/></a>
-       <a> <img src="https://user-images.githubusercontent.com/85503050/230713855-85b0822f-61ab-4ef6-97c6-77a31ff8a927.png" width = "100px"
+       <a> <img src="https://user-images.githubusercontent.com/85503050/230713855-85b0822f-61ab-4ef6-97c6-77a31ff8a927.png" style="width: 110px; margin-bottom: 1px
 "/></a></h1>
         <p>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230463857-53aad46f-535f-455f-9961-7903d799cc1d.png"alt="React" width="50" height="45" /></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230714510-85cd084b-b5a4-4041-822b-cc64a37eb0f8.svg"alt="Bootstrap" width="55" height="55" /></a>           
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230469410-b3b55c1a-506f-4d91-8a63-aa02252b983f.png"alt="Nodejs" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230464317-1a1522c3-5c51-49df-8dcd-1ce4542a8c0b.png"alt="Javascript" width="50" height="40" /></a>
          <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="50" height="50" /></a>
