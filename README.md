@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" />
 
 <hr/>
-<h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm SINGH</h1>
+<h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm Rishabh</h1>
 <h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /></p>
 
