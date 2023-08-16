@@ -37,8 +37,8 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
             <a><img src="https://user-images.githubusercontent.com/85503050/230406289-bd28bc1b-6d5b-4a3b-ba92-b4106545069c.gif" style="display: inline-block; width: 300px; margin-top: 30px;" /></a>
       </h1>
       <p align="center" ;>
-<!--             <a href="https://twitter.com/twitforsingh" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                    alt="twitforsingh" height="30" width="40" /></a> -->
+            <a href="https://twitter.com/twitforsingh" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                    alt="twitforsingh" height="30" width="40" /></a> 
             <a href="https://www.linkedin.com/in/link-with-singh/" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="rishabh singh" height="30" width="40" /></a>
             <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
