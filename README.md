@@ -65,13 +65,13 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230714510-85cd084b-b5a4-4041-822b-cc64a37eb0f8.svg"alt="Bootstrap" width="55" height="55" /></a>           
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230469410-b3b55c1a-506f-4d91-8a63-aa02252b983f.png"alt="Nodejs" width="50" height="50" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230464317-1a1522c3-5c51-49df-8dcd-1ce4542a8c0b.png"alt="Javascript" width="50" height="40" /></a>
-         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="html5" width="50" height="50" /></a>
+         <a href="#" target="_blank"><img src=""alt="css3" width="50" height="50" /></a>
+         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/2c48fab2-fe8e-4b95-b819-64e21a9b5eb3"alt="html5" width="50" height="50" /></a>
        </p>
        <p>
-         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="java" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"alt="photoshop" width="50" height="45" /></a>
+         <a href="#" target="_blank"><img src=""alt="java" width="50" height="50" /></a>
+         <a href="#" target="_blank"><img src=""alt="python" width="50" height="50" /></a>
+         <a href="#" target="_blank"><img src=""alt="photoshop" width="50" height="45" /></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png"alt="canva" width="60" height="50" /></a>
         </p>
    </div>
@@ -96,3 +96,4 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
                alt="Rishabh787" width="430px"; />
    
    </p>
+
