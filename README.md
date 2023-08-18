@@ -38,15 +38,15 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
       </h1>
       <p align="center" ;>
             <a href="https://twitter.com/twitforsingh" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/29aaef3c-1370-4069-8488-5c5a03f4cff3"
-                    alt="twitforsingh" height="40" width="40" /></a> 
+                    alt="twitforsingh" height="40" width="40"></a> 
             <a href="https://www.linkedin.com/in/link-with-singh/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f41a50b2-e48c-40e6-a585-396a1959e01b"
-                    alt="rishabh singh" height="40" width="40" /></a>
+                    alt="rishabh singh" height="40" width="40"></a>
             <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/688a7491-5b4a-4d26-b50c-dc3c25834304"
-                    alt="rishabh singh bholu" height="40" width="40" /></a>
+                    alt="rishabh singh bholu" height="40" width="40"></a>
             <a href="https://www.youtube.com/c/insanity learner" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/ad5a7524-dc0b-4ac1-9d48-5f50bfe4591c"
-                    alt="insanity learner" height="40" width="40" /></a>
+                    alt="insanity learner" height="40" width="40"></a>
             <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f1e27f27-1255-42f2-88ca-8653092b9b59"
-                    alt="https://discord.gg/5ZnNXjAvbG" height="40" width="40" /></a>
+                    alt="https://discord.gg/5ZnNXjAvbG" height="40" width="40"></a>
       </p>
 </div>
     <!-- To here Connect with me -->
@@ -59,19 +59,19 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
        <a> <img src="https://user-images.githubusercontent.com/85503050/230713855-85b0822f-61ab-4ef6-97c6-77a31ff8a927.png" style="width: 110px; margin-bottom: 1px
 "/></a></h1>
         <p>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230463857-53aad46f-535f-455f-9961-7903d799cc1d.png"alt="React" width="50" height="45" /></a>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230714510-85cd084b-b5a4-4041-822b-cc64a37eb0f8.svg"alt="Bootstrap" width="55" height="55" /></a>           
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230469410-b3b55c1a-506f-4d91-8a63-aa02252b983f.png"alt="Nodejs" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230464317-1a1522c3-5c51-49df-8dcd-1ce4542a8c0b.png"alt="Javascript" width="50" height="40" /></a>
-         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/23d6ad8b-4a1b-42f4-871c-c3cf6839eaec"alt="css3" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/2c48fab2-fe8e-4b95-b819-64e21a9b5eb3"alt="html5" width="50" height="50" /></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218269913-6d7a2a1f-8cf7-4ab6-91a3-31409b69ce3c.png"alt="vscode" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230467646-ed20dd7f-6d49-44fd-bc62-bba0ff1e1bdb.svg"alt="Git" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230463857-53aad46f-535f-455f-9961-7903d799cc1d.png"alt="React" width="50" height="45" ></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230714510-85cd084b-b5a4-4041-822b-cc64a37eb0f8.svg"alt="Bootstrap" width="55" height="55" ></a>           
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230469410-b3b55c1a-506f-4d91-8a63-aa02252b983f.png"alt="Nodejs" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/230464317-1a1522c3-5c51-49df-8dcd-1ce4542a8c0b.png"alt="Javascript" width="50" height="40" ></a>
+         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/23d6ad8b-4a1b-42f4-871c-c3cf6839eaec"alt="css3" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/2c48fab2-fe8e-4b95-b819-64e21a9b5eb3"alt="html5" width="50" height="50" ></a>
        </p>
        <p>
-         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/1a734a2a-b3aa-4e44-b9f4-963e6532d6d2"alt="java" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/38269d87-21d5-4b17-bf65-89293bd4b922"alt="python" width="50" height="50" /></a>
-         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png"alt="canva" width="60" height="50" /></a>
+         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/1a734a2a-b3aa-4e44-b9f4-963e6532d6d2"alt="java" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/38269d87-21d5-4b17-bf65-89293bd4b922"alt="python" width="50" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png"alt="canva" width="60" height="50" ></a>
         </p>
    </div>
 
@@ -82,17 +82,17 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
    
    <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh787&theme=transparent&hide_border=true"
-            alt="Rishabh787" width="390px"; />
+            alt="Rishabh787" width="390px"; >
    </p>
    
    <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true"
-            alt="Rishabh787" width="430px" ; />
+            alt="Rishabh787" width="430px" ; >
    </p>
 
    <p>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
-               alt="Rishabh787" width="430px"; />
+               alt="Rishabh787" width="430px"; >
    
    </p>
    
