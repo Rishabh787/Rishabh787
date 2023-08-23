@@ -22,8 +22,7 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
         🔭 I’m currently working on <b>Web Development</b><a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src=""style="display: inline-block" /></a>
    </p>
 
-   <p>🌱 I’m currently learning <b>Java, JavaScript, Node</b></p>
-   <p>🤝 I’m waiting for new turn with 😍somebody</p>
+   <p>🌱 I’m currently learning <b>React.js</b></p>
    <p>💬 Ask me about <b>FRONTEND</b></p>
    <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
    <a><img src="https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style="width: 40px; display: inline-block; margin-top: -20px;" /></a>
