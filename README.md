@@ -7,8 +7,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
 
-<p align="left"> <a  href="https://insanitylearner.in" target="_blank"><img
-src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" width="100%" /></a> </p>
+<p align="left"> 
+<!--    <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" width="100%" /></a> -->
+</p>
 
 <hr/>
 
@@ -73,25 +74,21 @@ src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png"alt="canva" width="60" height="50" ></a>
         </p>
    </div>
-
-   <!-- To here Tools -->
    <hr>
 
-   <!-- These three card from here -->
-   
    <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh787&theme=transparent&hide_border=true"
             alt="Rishabh787" width="390px"; >
    </p>
    
    <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true"
-            alt="Rishabh787" width="430px" ; >
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true" -->
+<!--             alt="Rishabh787" width="430px" ; > -->
    </p>
 
    <p>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
-               alt="Rishabh787" width="430px"; >
+               alt="Rishabh787" width="520px" height="420px"; >
    
    </p>
    
