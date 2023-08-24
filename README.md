@@ -37,7 +37,7 @@
             <a><img src="https://user-images.githubusercontent.com/85503050/230406289-bd28bc1b-6d5b-4a3b-ba92-b4106545069c.gif" style="display: inline-block; width: 300px; margin-top: 30px;" /></a>
       </h1>
       <p align="center" ;>
-            <a href="https://twitter.com/twitforsingh" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/29aaef3c-1370-4069-8488-5c5a03f4cff3"
+            <a href="https://twitter.com/twitforsingh" target="_blank"><img align="center"src="./assests/twitter.png"
                     alt="twitforsingh" height="40" width="40"></a> 
             <a href="https://www.linkedin.com/in/link-with-singh/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f41a50b2-e48c-40e6-a585-396a1959e01b"
                     alt="rishabh singh" height="40" width="40"></a>
@@ -91,4 +91,3 @@
                alt="Rishabh787" width="435px" height="410px"; >
    
    </p>
-   
