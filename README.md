@@ -23,7 +23,7 @@
         🔭 I’m currently working on <b>Web Development</b><a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src=""style="display: inline-block" /></a>
    </p>
 
-   <p>🌱 I’m currently learning <code><b>Fetched but not reFlecting</b>code</b></p>
+   <p>🌱 I’m currently learning <code><b>Fetched but not reFlecting</b></code></b></p>
    
    <p>💬 Ask me about <b>Fetching....</b></p>
    <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
