@@ -19,9 +19,6 @@
 <a> <img align="right" src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 250px; display: inline-block;"/></a>
 
 
-   <p>
-        🔭 I’m currently working on <b>Web Development</b><a><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="35" data-canonical-src=""style="display: inline-block" /></a>
-   </p>
 
    <p>🌱 I’m currently learning <code><b>Fetched but not reFlecting</b></code></b></p>
    
