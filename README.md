@@ -68,6 +68,7 @@
          <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/1a734a2a-b3aa-4e44-b9f4-963e6532d6d2"alt="java" width="50" height="50" ></a>
          <a href="#" target="_blank"><img src="https://github.com/Rishabh787/Rishabh787/assets/85503050/38269d87-21d5-4b17-bf65-89293bd4b922"alt="python" width="50" height="50" ></a>
          <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/85503050/218165397-7683e0e0-605e-424d-8a7d-32ca6478565a.png"alt="canva" width="60" height="50" ></a>
+         <a href="#" target="_blank"><img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000"alt="canva" width="60" height="50" ></a>
         </p>
    </div>
    <hr>
