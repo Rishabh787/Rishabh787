@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
 
 <p align="left"> 
-<!--    <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh787" width="100%" /></a> -->
+<!--    <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a> -->
 </p>
 
 <hr/>
