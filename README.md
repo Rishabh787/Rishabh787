@@ -23,7 +23,7 @@
    <p>🌱 I’m currently learning <code><b>Fetched but not reFlecting</b></code></b></p>
    
    <p>💬 Ask me about <b>Fetching....</b></p>
-   <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer
+   <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer 
    <p></p>
    <a><img src="https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style="width: 40px; display: inline-block; margin-top: -20px;" /></a>
    </p>
