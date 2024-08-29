@@ -9,7 +9,7 @@
 
 <p align="left"> 
 <!--    <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a> -->
-</p>
+</p> 
 
 <hr/>
 
