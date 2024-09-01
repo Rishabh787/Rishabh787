@@ -43,7 +43,7 @@
                     alt="insanity learner" height="40" width="40"></a>
             <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f1e27f27-1255-42f2-88ca-8653092b9b59"
                     alt="https://discord.gg/5ZnNXjAvbG" height="40" width="40"></a>
-      </p>
+      </p> 
 </div>
     <!-- To here Connect with me -->
     <!-- Language and tools from here -->
