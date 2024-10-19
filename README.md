@@ -42,10 +42,6 @@
                     alt="rishabh singh" height="40" width="40"></a>
             <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/688a7491-5b4a-4d26-b50c-dc3c25834304"
                     alt="rishabh singh bholu" height="40" width="40"></a>
-            <a href="https://www.youtube.com/c/insanity learner" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/ad5a7524-dc0b-4ac1-9d48-5f50bfe4591c"
-                    alt="insanity learner" height="40" width="40"></a>
-            <a href="https://discord.gg/PSyQwWvqYb" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f1e27f27-1255-42f2-88ca-8653092b9b59"
-                    alt="https://discord.gg/5ZnNXjAvbG" height="40" width="40"></a>
       </p> 
 </div>
     <!-- To here Connect with me -->
