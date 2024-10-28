@@ -1,36 +1,25 @@
 <img src="https://user-images.githubusercontent.com/85503050/216779584-ca165bf4-1c25-4ea9-a523-e97e504a84ae.jpg" />
 
 <hr/>
-<h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm Rishabh</h1> 
+<h1 align="center">नमस्ते (Namaste), Hii... 👻 I'm Rishabh</h1>
 <h3 align="center">A passionate Developer from <b>INDIA</b> 🧡 🤍 💚</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh787&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh787" /></p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Rishabh787&theme=flat" alt="Rishabh787" /></p>
 
 <!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
 
 <p align="left"> 
-<!--    <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a> -->
+   <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a>
 </p> 
 
+<a> <img src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 80px;"/></a>
 <hr/>
-
-<a href="https://revispy.com" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/66cebe6d-c81c-40fb-bb28-e467f8650351" height="200" width="200" /></a>
-
-
-<a> <img align="right" src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 80px; display: inline-block;"/></a>
-
-
-   <p>🌱 I’m currently learning <code><b>Fetched but not reFlecting</b></code></b></p>
+<h1 align="center">
    
-   <p>💬 Ask me about <b>Fetching....</b></p>
-   <p> Design your virtul thoughts</p>
-   <p>⚡Fun fact©️ <b>after !print("hello world")</b> I'm a programmer 
-   <p></p>
-   <a><img src="https://user-images.githubusercontent.com/85503050/230389852-1507cdce-810d-48bb-b1eb-8f0565197f3e.gif" style="width: 40px; display: inline-block; margin-top: -20px;" /></a>
-   </p>
+<a href="https://revispy.com" target="_blank"><img src="https://github.com/user-attachments/assets/66cebe6d-c81c-40fb-bb28-e467f8650351" height="200" width="200" /></a>
+</h1>
 
-<hr />
+
 
 <div>
         <!-- Connect with me from here -->
