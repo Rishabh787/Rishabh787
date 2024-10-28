@@ -9,7 +9,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/twitforsingh" target="blank"><img src="https://img.shields.io/twitter/follow/twitforsingh?logo=twitter&style=for-the-badge" alt="twit-for-singh" /></a> </p> -->
 
 <p align="left"> 
-   <a  href="https://insanitylearner.in" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a>
+   <a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Rishabh787" alt="Rishabh7877" width="100%" /></a>
 </p> 
 
 <a> <img src="https://user-images.githubusercontent.com/85503050/230454277-e797113c-70d0-4cc4-a854-22c6afdf6244.gif" style= "width: 80px;"/></a>
@@ -34,18 +34,18 @@
       </p> 
 </div>
     <!-- To here Connect with me -->
-   <p>
+<!--    <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh787&theme=transparent&hide_border=true"
             alt="Rishabh787" width="390px"; >
-   </p>
+   </p> -->
    
-   <p>
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true" -->
-<!--             alt="Rishabh787" width="430px" ; > -->
+   <p align="center" >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true"
+            alt="Rishabh787" width="430px" ; >
+    <img align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
+               alt="Rishabh787" width="435px" height="410px"; >
    </p>
 
    <p>
-    <img align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
-               alt="Rishabh787" width="435px" height="410px"; >
    
    </p>
