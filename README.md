@@ -29,23 +29,12 @@
       <p align="center">
             <a href="https://www.linkedin.com/in/link-with-singh/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/f41a50b2-e48c-40e6-a585-396a1959e01b"
                     alt="rishabh singh" height="40" width="40"></a>
-            <a href="https://www.instagram.com/rishabh_singh_bholu/" target="_blank"><img align="center"src="https://github.com/Rishabh787/Rishabh787/assets/85503050/688a7491-5b4a-4d26-b50c-dc3c25834304"
-                    alt="rishabh singh bholu" height="40" width="40"></a>
       </p> 
+   <div align='center'>
+   <blockquote>
+      <p>
+         <b>Code Never Lies, Comments Sometimes Do: </b> <i>It's better to rewrite bad code instead of just commenting on it.</i>
+      </p>
+      </blockquote>
+   </div>
 </div>
-    <!-- To here Connect with me -->
-<!--    <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh787&theme=transparent&hide_border=true"
-            alt="Rishabh787" width="390px"; >
-   </p> -->
-   
-   <p align="center" >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rishabh787&show_icons=true&theme=transparent&hide_border=true"
-            alt="Rishabh787" width="430px" ; >
-    <img align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=Rishabh787&theme=transparent&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j)" 
-               alt="Rishabh787" width="435px" height="410px"; >
-   </p>
-
-   <p>
-   
-   </p>
